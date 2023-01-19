@@ -18,7 +18,7 @@ For more details, please refer to our [paper]().
 
 ## Model  Parameters
 
-We compares the parameters and accuracy of different methods on Cityscapes validation set.
+We compare the parameters and accuracy of different methods on Cityscapes validation set.
 Our model has much fewer parameters compared to BPR L and SegFix, and its AP is comparable to BPR S. This demonstrates that our model achieves a reasonable trade-off between accuracy and model size.
 ![16736854s72690](image/par.png "comparison of model parameters and AP on Cityscapes validation set.")
 
