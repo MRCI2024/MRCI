@@ -36,8 +36,8 @@ Our model has much fewer parameters compared to BPR L and SegFix, and its AP is 
 | +MRCI          | 40.3  | 64.8    | [MRCI_PointRend_AP_Val_403.zip](https://pan.baidu.com/s/1nG2onnGb8dZggzDMmLvsjA)    |
 | +SegFix + MRCI | 40.9  | 65.0    | [MRCI_Point_Segfix_AP_val_409.zip](https://pan.baidu.com/s/1hfMHmTm8WUgJvoGgt7RN4A) |
 
-
 Add: We newly added boundary AP and Boundery F-score indicators for instance segmentation and semantic segmentation respectively
+
 <div align="center">
 <img src="./image/result.png" width="85%" />
 </div>
