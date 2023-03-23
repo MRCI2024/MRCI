@@ -36,11 +36,21 @@ Our model has much fewer parameters compared to BPR L and SegFix, and its AP is 
 | +MRCI          | 40.3  | 64.8    | [MRCI_PointRend_AP_Val_403.zip](https://pan.baidu.com/s/1nG2onnGb8dZggzDMmLvsjA)    |
 | +SegFix + MRCI | 40.9  | 65.0    | [MRCI_Point_Segfix_AP_val_409.zip](https://pan.baidu.com/s/1hfMHmTm8WUgJvoGgt7RN4A) |
 
+
+Add: We newly added boundary AP and Boundery F-score indicators for instance segmentation and semantic segmentation respectively
+<div align="center">
+<img src="./image/result.png" width="85%" />
+</div>
+
 ## Qualitative Results
 
 Qualitative results on Cityscapes validation set. Our proposed framework outperforms other methods on object boundaries of various categories and sizes.
 
 ![1673685472690](./image/result3.png "Qualitative Results")
+
+Qualitative comparison in terms of errors on Cityscapes val. Our approach well addresses the existing boundary errors of various categories.
+
+![1673685472691](./image/error.png "Qualitative Results1")
 
 ## Usage
 
