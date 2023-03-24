@@ -52,6 +52,10 @@ Qualitative comparison in terms of errors on Cityscapes val. Our approach well a
 
 ![1673685472691](./image/error.png "Qualitative Results1")
 
+Qualitative comparison MRCI and Mask2Former：Our model is trained on the rough segmentation result of maskrcnn, and directly refines the result of Mask2former (APval:42). The results show that our method has improved for Mask2former.
+![1673685472691](./image/result4.png "Qualitative Results1")
+
+More supplementary experiments in progress
 ## Usage
 
 This section will be updated soon.
