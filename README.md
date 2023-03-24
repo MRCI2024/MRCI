@@ -36,7 +36,7 @@ Our model has much fewer parameters compared to BPR L and SegFix, and its AP is 
 | +MRCI          | 40.3  | 64.8    | [MRCI_PointRend_AP_Val_403.zip](https://pan.baidu.com/s/1nG2onnGb8dZggzDMmLvsjA)    |
 | +SegFix + MRCI | 40.9  | 65.0    | [MRCI_Point_Segfix_AP_val_409.zip](https://pan.baidu.com/s/1hfMHmTm8WUgJvoGgt7RN4A) |
 
-Add: We newly added boundary AP and Boundery F-score indicators for instance segmentation and semantic segmentation respectively
+**Add:** We newly added boundary AP and Boundery F-score indicators for instance segmentation and semantic segmentation respectively
 
 <div align="center">
 <img src="./image/result.png" width="85%" />
@@ -48,11 +48,11 @@ Qualitative results on Cityscapes validation set. Our proposed framework outperf
 
 ![1673685472690](./image/result3.png "Qualitative Results")
 
-**Add:Qualitative comparison in terms of errors on Cityscapes val. Our approach well addresses the existing boundary errors of various categories.(Black area means the error with gt)**
+**Add:**Qualitative comparison in terms of errors on Cityscapes val. Our approach well addresses the existing boundary errors of various categories.(Black area means the error with gt)
 
 ![1673685472691](./image/error.png "Qualitative Results1")
 
-**Add:Qualitative comparison MRCI and [Mask2Former](https://github.com/facebookresearch/Mask2Former):**Our model is trained on the rough segmentation result of maskrcnn(AP val 36.4), and directly refines the result of Mask2former (APval:42.0). The results show that our method has slightly improved for Mask2Former.
+**Add:**Qualitative comparison MRCI and [Mask2Former](https://github.com/facebookresearch/Mask2Former):Our model is trained on the rough segmentation result of maskrcnn(AP val 36.4), and directly refines the result of Mask2former (APval:42.0). The results show that our method has slightly improved for Mask2Former.
 ![1673685472691](./image/result4.png "Qualitative Results1")
 
 **More supplementary experiments in progress.**
