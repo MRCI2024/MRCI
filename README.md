@@ -48,14 +48,14 @@ Qualitative results on Cityscapes validation set. Our proposed framework outperf
 
 ![1673685472690](./image/result3.png "Qualitative Results")
 
-Qualitative comparison in terms of errors on Cityscapes val. Our approach well addresses the existing boundary errors of various categories.
+**Add:Qualitative comparison in terms of errors on Cityscapes val. Our approach well addresses the existing boundary errors of various categories.(Black area means the error with gt)**
 
 ![1673685472691](./image/error.png "Qualitative Results1")
 
-Qualitative comparison MRCI and Mask2Former：Our model is trained on the rough segmentation result of maskrcnn, and directly refines the result of Mask2former (APval:42). The results show that our method has improved for Mask2former.
+**Add:Qualitative comparison MRCI and [Mask2Former](https://github.com/facebookresearch/Mask2Former)：**Our model is trained on the rough segmentation result of maskrcnn(AP val 36.4), and directly refines the result of Mask2former (APval:42.0). The results show that our method has slightly improved for Mask2Former.
 ![1673685472691](./image/result4.png "Qualitative Results1")
 
-More supplementary experiments in progress
+**More supplementary experiments in progress.**
 ## Usage
 
 This section will be updated soon.
