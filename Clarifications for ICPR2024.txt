@@ -1,0 +1,13 @@
+Dear Program Chairs and Reviewers,
+
+I hope this letter finds you well. I am writing to appeal the decision regarding our manuscript titled “MRCI: Multi-Range Context Interaction for Boundary Refinement in Image Segmentation” (Paper ID: 49). The manuscript was rejected due to concerns about its similarity to a GitHub repository. I would like to address these concerns with the following clarifications and explanations.
+
+	1. GitHub Repository and Paper Similarity: We acknowledge the concerns raised about the similarity between our paper and the GitHub repository. The repository in question (https://github.com/MRCI2023/MRCI) was indeed created and maintained by the same authors of this paper. As you can verify from the link, both contributors to this GitHub project are listed in our author list. The project was originally developed for submission to IJCAI2023. However, after the initial submission did not proceed smoothly, we invested significant time and effort into improving the work, which led to our current submission to ICPR2024. This process extended over more than a year, during which we made substantial enhancements to both the methodology and experimental results. We have already uploaded the same clarifications of this email to the GitHub repository, which is named as "Clarifications for ICPR2024.txt". 
+	2. Acknowledgment of Our Work by Other Reviewers: We are encouraged by the recognition our work has received from other reviewers, who have acknowledged the innovations and contributions presented in our paper. Reviewer#5 thinks that the whole essay is well structured and well written, the method is novelty and the experiments are sufficient. Reviewer #7 acknowledges our experiments are strong and easy to follow. This positive feedback highlights the value and relevance of our research in the field.
+	3. Request for Re-Evaluation: Given the above clarifications, we respectfully request that the Program Chairs and reviewers reconsider our submission, taking into account the originality and contributions offer meaningful advancements, and we are hopeful that upon re-evaluation, our paper will be judged on its merits.  We are open to any further questions or requests for clarification and stand ready to provide additional information if needed.
+
+
+Thank you for your attention to this matter, and I look forward to your favorable response.
+
+Sincerely,
+Jin Wei
