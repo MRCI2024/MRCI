@@ -2,9 +2,8 @@
 
 Training and inference code and weight will be open source soon.
 
-> [**MRCI: Multi-Range Context Interaction Network for Boundary Refinement**](https://github.com/MRCI2023/MRCI)
+> [**MRCI: Multi-Range Context Interaction Network for Boundary Refinement**](https://github.com/MRCI2024/MRCI)
 >
-> *IJCAI 2023 delivery*
 
 ## Introduction
 
